@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RGBColor</string>
+    <string name="enter_two_hexadecimal_characters_0_9_a_f_for_each_color_channel">Enter two hexadecimal characters (0-9, A-F) for each color channel.</string>
+    <string name="rgb_color_mixer">RGB Color Mixer</string>
+    <string name="red_channel">Red Channel</string>
+    <string name="mix_colors">Mix Colors</string>
+    <string name="blue_channel">Blue Channel</string>
+    <string name="green_channel">Green Channel</string>
+</resources>
